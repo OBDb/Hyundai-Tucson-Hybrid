@@ -1,2 +1,26 @@
-{ "commands": []
+{ "commands": [
+{ "hdr": "7C6", "rax": "7CE", "cmd": {"22": "B002"}, "freq": 1,
+  "signals": [
+    {"id": "TUCSONHYB_FLI_VOL", "path": "Fuel", "fmt": {"bix": 32, "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level (volume)"}
+  ]},
+{ "hdr": "7D4", "rax": "7DC", "cmd": {"21": "01"}, "freq": 0.25,
+  "signals": [
+    {"id": "TUCSONHYB_STEER_ANGLE", "path": "Control", "fmt": {"bix": 72, "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
+  ]},
+{ "hdr": "7D6", "rax": "7DE", "cmd": {"21": "06"}, "freq": 15,
+  "signals": [
+    {"id": "TUCSONHYB_TP_FL", "path": "Tires", "fmt": {"bix": 32,  "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "TUCSONHYB_TP_FR", "path": "Tires", "fmt": {"bix": 96,  "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
+    {"id": "TUCSONHYB_TP_RL", "path": "Tires", "fmt": {"bix": 160, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
+    {"id": "TUCSONHYB_TP_RR", "path": "Tires", "fmt": {"bix": 224, "len": 8, "max": 63.75, "div": 4, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "ED02"}, "freq": 1,
+  "signals": [
+    {"id": "TUCSONHYB_EOT", "path": "Engine", "fmt": {"bix": 184, "len": 8, "max": 215, "min": -40, "add": -4, "unit": "celsius" }, "name": "Engine oil temperature"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "ED03"}, "freq": 5,
+  "signals": [
+    {"id": "TUCSONHYB_ODO", "path": "Control", "fmt": {"bix": 392, "len": 64, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+  ]}
+]
 }
