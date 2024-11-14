@@ -2,6 +2,10 @@
 
 This repository contains signal set configurations for the Hyundai Tucson Hybrid, organized by model year and version. The files are structured to allow for easy differentiation between model variations and hybrid-specific parameters, ensuring accurate signal mapping for each version of the Hyundai Tucson Hybrid.
 
+## Related vehicles
+
+- https://github.com/OBDb/Hyundai-Tucson
+
 ## Generations
 
 The Hyundai Tucson Hybrid was introduced as part of the fourth-generation Tucson lineup, marking Hyundai's expansion into electrified compact SUVs:
