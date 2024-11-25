@@ -8,30 +8,44 @@ This repository contains signal set configurations for the Hyundai Tucson Hybrid
 
 ## Generations
 
-The Hyundai Tucson Hybrid was introduced as part of the fourth-generation Tucson lineup, marking Hyundai's expansion into electrified compact SUVs:
+- **Third Generation TL (2015-2020)**:
+  - Mild Hybrid (Europe Only):
+    - 2.0L diesel engine + 48V mild hybrid system
+    - 0.44 kWh lithium-ion battery
+    - Combined output: 183 hp
+    - 8-speed automatic transmission
+    - Available in both FWD and AWD
+    - Introduced in 2018 as part of facelift
 
-- **Fourth Generation (2021-present)**:
-  - **Standard Hybrid**: Combines a 1.6L turbocharged GDI engine with a 44.2 kW electric motor and 1.49 kWh battery pack, producing a combined 226 horsepower and 258 lb-ft of torque. Features Hyundai's 6-speed automatic transmission (HEV) and standard HTRAC™ all-wheel drive.
-    - **Key Features**:
-      - Dedicated hybrid powertrain management system
-      - Active air flaps for enhanced aerodynamics
-      - Regenerative braking system
-      - EV mode for short-distance electric-only operation
-      - Hybrid-specific instrument cluster with power flow display
-
-  - **Plug-in Hybrid (PHEV)**: Uses the same 1.6L turbo engine but pairs it with a more powerful 66.9 kW electric motor and larger 13.8 kWh battery pack, delivering 261 combined horsepower. Offers up to 33 miles of all-electric range.
-    - **Additional PHEV Features**:
-      - Built-in 7.2 kW onboard charger
-      - Dedicated EV mode button
-      - Extended electric-only operation
-      - Charging port with LED indicator
-      - Enhanced battery cooling system
-
-Both variants feature:
-- Hybrid-specific drive modes (Eco, Sport, Smart)
-- Advanced regenerative braking system with paddle shifters
-- Hybrid powertrain warranty coverage of 10 years/100,000 miles
-- Integration with Hyundai's Blue Link® connected car system for hybrid-specific remote features
+- **Fourth Generation NX4 (2021-present)**:
+  - Standard Hybrid:
+    - 1.6L turbocharged GDI engine + 44.2 kW electric motor
+    - 1.49 kWh battery pack
+    - Combined output: 226 hp and 258 lb-ft torque
+    - 6-speed automatic transmission (HEV)
+    - Standard HTRAC™ all-wheel drive
+    - EPA estimated fuel economy: up to 38 MPG combined
+  - Plug-in Hybrid (PHEV):
+    - 1.6L turbo engine + 66.9 kW electric motor
+    - 13.8 kWh battery pack
+    - Combined output: 261 hp
+    - 6-speed automatic transmission
+    - Standard HTRAC™ all-wheel drive
+    - All-electric range: 33 miles
+    - EPA estimated fuel economy: 80 MPGe combined
+  - Model Year Updates:
+    - 2022: Initial launch year
+      - Full hybrid and PHEV introduction
+      - Standard Bluelink connected car services
+    - 2023: 
+      - Battery preconditioning added
+      - Enhanced winter mode operation
+      - Remote start enhancements
+    - 2024:
+      - Enhanced efficiency mapping
+      - Updated hybrid control software
+      - Digital key 2.0 implementation
+      - Additional safety features
 
 ## Related resources
 
