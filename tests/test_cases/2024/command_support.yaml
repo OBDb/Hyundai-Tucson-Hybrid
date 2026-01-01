@@ -5,6 +5,7 @@ supported_commands_by_ecu:
   "7C6":
   - 7C6.7CE.22B002|fc=1:TUCSONHYB_ODO_KM,TUCSONHYB_ODO_MI
   "7DF":
+  - 7DF.0104
   - 7DF.010D
   - 7DF.0110
   "7E0":
