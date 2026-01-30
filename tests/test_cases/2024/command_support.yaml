@@ -132,5 +132,7 @@ unsupported_commands_by_ecu:
   - 6F1.22DFE7
   "7D4":
   - 7D4.7DC.2101:TUCSONHYB_STEER_ANGLE
+  "7DF":
+  - 7DF.012F
   "7E0":
   - 7E0.7E8.22ED02:TUCSONHYB_EOT
