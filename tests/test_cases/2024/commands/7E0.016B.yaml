@@ -15,7 +15,7 @@ test_cases:
     EGRTD_WR_SUP: 0
   response: 7E807416B1012000000
 - expected_values:
-    EGRTA: -21
+    EGRTA: -5
     EGRTA_SUP: 0
     EGRTA_WR_SUP: 1
     EGRTB: -40
@@ -27,4 +27,4 @@ test_cases:
     EGRTD: -40
     EGRTD_SUP: 0
     EGRTD_WR_SUP: 0
-  response: 7E807416B1013000000
+  response: 7E807416B1023000000
