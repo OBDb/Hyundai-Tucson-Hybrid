@@ -1,10 +1,10 @@
 command_id: 7A0.7A8.22C00B|fc=1
 test_cases:
 - expected_values:
-    TUCSONHYB_TP_FL: 0
-    TUCSONHYB_TP_FR: 0
-    TUCSONHYB_TP_RL: 0
-    TUCSONHYB_TP_RR: 0
+    TUCSONHYB_TP_FL: null
+    TUCSONHYB_TP_FR: null
+    TUCSONHYB_TP_RL: null
+    TUCSONHYB_TP_RR: null
   response: |-
     7A8102462C00BFFFFFF
     7A82180000000000200
