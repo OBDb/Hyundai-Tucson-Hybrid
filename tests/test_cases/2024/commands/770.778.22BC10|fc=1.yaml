@@ -1,0 +1,12 @@
+command_id: 770.778.22BC10|fc=1
+test_cases:
+- expected_values:
+    TUCSONHYB_LIGHTS_CODE: 0
+  response: |-
+    778100B62BC100F2600
+    778210000000000AAAA
+- expected_values:
+    TUCSONHYB_LIGHTS_CODE: 0
+  response: |-
+    778100B62BC100F2600
+    778210000200000AAAA
