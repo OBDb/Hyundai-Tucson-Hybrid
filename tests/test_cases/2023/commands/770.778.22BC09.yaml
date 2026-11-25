@@ -1,0 +1,20 @@
+command_id: 770.778.22BC09
+test_cases:
+- expected_values:
+    TUCSONHYB_HL_HIGH: 0
+    TUCSONHYB_HL_LOW: 0
+  response: |-
+    778100B62BC09322003
+    77821CC00000000AAAA
+- expected_values:
+    TUCSONHYB_HL_HIGH: 0
+    TUCSONHYB_HL_LOW: 0
+  response: |-
+    778100B62BC09322003
+    77821CC00000030AAAA
+- expected_values:
+    TUCSONHYB_HL_HIGH: 0
+    TUCSONHYB_HL_LOW: 0
+  response: |-
+    778100B62BC09322003
+    77821CC00040030AAAA

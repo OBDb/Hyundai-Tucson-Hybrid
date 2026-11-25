@@ -1,0 +1,32 @@
+command_id: 770.778.22BC08
+test_cases:
+- expected_values:
+    TUCSONHYB_TURN_L: 0
+    TUCSONHYB_TURN_R: 0
+  response: |-
+    778100B62BC08A05090
+    77821B80000001CAAAA
+- expected_values:
+    TUCSONHYB_TURN_L: 0
+    TUCSONHYB_TURN_R: 0
+  response: |-
+    778100B62BC08A05090
+    77821B80000011CAAAA
+- expected_values:
+    TUCSONHYB_TURN_L: 0
+    TUCSONHYB_TURN_R: 0
+  response: |-
+    778100B62BC08A05090
+    77821B80002001CAAAA
+- expected_values:
+    TUCSONHYB_TURN_L: 0
+    TUCSONHYB_TURN_R: 0
+  response: |-
+    778100B62BC08A05090
+    77821B80002011CAAAA
+- expected_values:
+    TUCSONHYB_TURN_L: 1
+    TUCSONHYB_TURN_R: 0
+  response: |-
+    778100B62BC08A05090
+    77821B80200011CAAAA
